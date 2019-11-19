@@ -1,0 +1,25 @@
+{
+    "name": "notgoddess/uswds_base_abd",
+    "description": "Drupal 8 theme",
+    "type": "drupal-theme",
+    "homepage": "https://github.com/notgoddess/uswds_base_abd",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Sara Jacobson",
+            "email": "notgoddess@gmail.com"
+        }
+    ],
+    "repositories": {
+        "drupal": {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    },
+    "require": {},
+    "require-dev": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "scripts": {},
+    "extra": []
+}
