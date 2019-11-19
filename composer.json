@@ -16,7 +16,9 @@
             "url": "https://packages.drupal.org/8"
         }
     },
-    "require": {},
+    "require": {
+        "drupal/uswds_base": "^1.0",
+    },
     "require-dev": {},
     "minimum-stability": "dev",
     "prefer-stable": true,
